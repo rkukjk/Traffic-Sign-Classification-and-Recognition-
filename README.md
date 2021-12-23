@@ -3,4 +3,4 @@
 
 ## Used neural network to train a traffic sign classification model. 
 
-![system schema](https://ibb.co/Wnbpt79)
+![alt text](https://github.com/[rkukjk]/[Traffic-Sign-Classification-and-Recognition]/blob/[main]/classificationReport.png?raw=true)
